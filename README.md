@@ -9,4 +9,4 @@ data: T2star_survey.csv
 notebook: T2star_survey.ipynb  
 figure(s): T2star_survey.svg, T2star_survey.png  
 note: references for the data are saved in the Ipython notebook  
-![T2* Survey NV centers](https://github.com/ebauch/NV_data/blob/master/T2star_survey.png)
+![Lorentzian fitting example](https://github.com/ebauch/NV_data/blob/master/T2star_survey.png)
