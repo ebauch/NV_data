@@ -2,10 +2,11 @@ Defect ,Host,Concentration (cm^-3),Interrogated Spins,T2* (us),FOM (us),Bath,Ref
 NV- ,Diamond,2.5E+12,2.5E+04,68,1.70E+06,"0.05 ppm N, 0.01% 13C",Bauch 2017,double quantum,
 NV-,Diamond,1E+15,1.0E+07,58,5.80E+08,"0.75 ppm N, 0.01% 13C",Bauch 2017,double quantum + spin bath driving,
 NV-,Diamond,1E+16,1.0E+07,5,5.00E+07,"10 ppm N, 0.05% 13C",Bauch 2017,double quantum + spin bath driving,
-NV,Diamond,7E+17,5.3E+11,0.15,7.88E+10,"< 100 ppm N, 1.1 13C%",Acosta 2010,,3rd paragraph
-NV,Diamond,2.8E+18,2.2E+08,0.1,2.18E+07,"< 100 ppm N, 1.1 13C%",Acosta 2009,,abstract
+NV-,Diamond,n/a,1.0E+11,0.2,2.00E+10,n/a,Kubo2011,,"last page, bottom left"
+NV-,Diamond,7E+17,5.3E+11,0.15,7.88E+10,"< 100 ppm N, 1.1 13C%",Acosta 2010,,3rd paragraph
+NV-,Diamond,2.8E+18,2.2E+08,0.1,2.18E+07,"< 100 ppm N, 1.1 13C%",Acosta 2009,,abstract
 SiV0,Diamond,ensemble,n/a,ask Natalie,n/a,1.1% 13C,Rose 2017,cryogenic temperatures,
-P,Silicon,1.00E+15,1.0E+15,1.8,1.80E+15,0.08% 29Si,Abe 2010,"cryogenic temperatures, EPR",
+P,Silicon,1.00E+15,1.0E+15,1.8,1.80E+15,0.08% 29Si,Abe 2010,"cryogenic temperatures, EPR","Fig. 4b, note [19]"
 PL5,Silicon Carbide,ensemble,n/a,2,n/a,"4.7% 29Si, 1.1% 13C",Zhou 2017,worked in strain basis to protect against magnetic noise,
-PL6,Silicon Carbide,2.8E+18,1.0E+03,0.3,3.00E+02,"4.7% 29Si, 1.1% 13C (likely)",Klimov 2015,,supplement S4
+PL6,Silicon Carbide,2.8E+18,1.0E+03,0.3,3.00E+02,"4.7% 29Si, 1.1% 13C (likely)",Klimov 2015,,"abstract, supplement S4"
 PL?,Silicon Carbide,ensemble,n/a,1.44,,"4.7% 29Si, 1.1% 13C (likely)",Koehl 2011,cryogenic temperatures,"Fig. 2b, 3c"
