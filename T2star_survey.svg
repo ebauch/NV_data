@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="272.52396mm"
+   height="92.465744mm"
+   viewBox="0 0 965.63607 327.63452"
    id="svg5953"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -163,16 +163,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="585.46196"
-     inkscape:cy="914.32192"
+     inkscape:cx="465.74569"
+     inkscape:cy="147.83044"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g7835"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5958">
     <rdf:RDF>
@@ -181,7 +185,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -189,7 +193,8 @@
      inkscape:label="plots"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-5.0782677,-31.721309)">
     <rect
        style="opacity:0.81300001;fill:#4d4d4d;fill-opacity:0.98039216;fill-rule:nonzero;stroke:none;stroke-width:0.45500001;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7331"
@@ -2515,12 +2520,14 @@
            id="tspan8201">Bauch2017</tspan>
       </text>
       <text
-         transform="matrix(1,0,0,-1,189.79916,147.53347)"
+         transform="scale(1,-1)"
          style="font-variant:normal;font-weight:normal;font-size:8px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text8203">
+         id="text8203"
+         x="137.22774"
+         y="-147.37315">
         <tspan
-           x="0 5.184 9.632 14.544 18.351999 23.264 27.84 32.416 36.992001"
-           y="0"
+           x="137.22774 142.41173 146.85973 151.77173 155.57973 160.49173 165.06773 169.64374 174.21973"
+           y="-147.37315"
            sodipodi:role="line"
            id="tspan8205">Bauch2017</tspan>
       </text>
@@ -2564,68 +2571,69 @@
            sodipodi:role="line"
            id="tspan8221">Klimov2015</tspan>
       </text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="254.5769"
+         y="-45.83366"
+         id="text4681"
+         sodipodi:linespacing="1000%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan4683"
+           x="254.5769"
+           y="-45.83366"
+           style="font-size:12px">FOM  ≡ T2* × spin    </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-132.28026"
+         y="11.309193"
+         id="text4696"
+         sodipodi:linespacing="1000%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan4698"
+           x="-132.28026"
+           y="11.309193"> </tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="812.39502"
-       y="91.386513"
+       x="822.39502"
+       y="228.52937"
        id="text7670-8-8"
        sodipodi:linespacing="1000%"><tspan
          sodipodi:role="line"
          id="tspan7672-3-1"
-         x="812.39502"
-         y="91.386513"
+         x="822.39502"
+         y="228.52937"
          style="font-size:15px">NV<tspan
    style="font-size:64.99999762%;baseline-shift:super"
    id="tspan7707-7">-</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="410.68256"
-       y="156.38652"
-       id="text7670-2-2"
-       sodipodi:linespacing="1000%"><tspan
-         sodipodi:role="line"
-         id="tspan7672-4-2"
-         x="410.68256"
-         y="156.38652"
-         style="font-size:15px">P</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="593.4162"
-       y="242.81508"
+       x="689.13049"
+       y="277.81509"
        id="text7670-80"
        sodipodi:linespacing="1000%"><tspan
          sodipodi:role="line"
          id="tspan7672-38"
-         x="593.4162"
-         y="242.81508"
+         x="689.13049"
+         y="277.81509"
          style="font-size:15px">PL</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="419.96826"
-       y="177.1008"
-       id="text7670-2-2-8"
-       sodipodi:linespacing="1000%"><tspan
-         sodipodi:role="line"
-         id="tspan7672-4-2-8"
-         x="419.96826"
-         y="177.1008"
-         style="font-size:15px">P</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="867.82538"
-       y="62.1008"
+       x="927.82538"
+       y="84.24366"
        id="text7670-2-2-8-4"
        sodipodi:linespacing="1000%"><tspan
          sodipodi:role="line"
          id="tspan7672-4-2-8-7"
-         x="867.82538"
-         y="62.1008"
+         x="927.82538"
+         y="84.24366"
          style="font-size:15px">P</tspan></text>
   </g>
 </svg>
