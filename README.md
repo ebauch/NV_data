@@ -4,9 +4,10 @@ collection of Nitrogen-Vacancy Center related data (see [Wikipedia](https://en.w
 
 ### Ensemble T2* Survey
 
-desc: T2* ensemble data for electronic spins in scientific literature  
+T2* ensemble data for electronic spins in scientific literature  
 data: T2star_survey.csv  
 notebook: T2star_survey.ipynb  
 figure(s): T2star_survey.svg  
 note: references for the data are saved in the Ipython notebook  
-
+i
+![T2* Survey NV centers](https://github.com/ebauch/NV_data/blob/master/T2star_survey.svg | height = 100)
