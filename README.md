@@ -1,8 +1,13 @@
 ### NV_data
 
-collection of Nitrogen-Vacancy Center related data (see [Wikipedia](https://en.wikipedia.org/wiki/Nitrogen-vacancy_center))
+collection of [Nitrogen Vacancy](https://en.wikipedia.org/wiki/Nitrogen-vacancy_center) related data
+for citation please use: Erik Bauch
 
-### Ensemble T2* Survey
+##Ensemble T2* Survey
+
+### Ensemble T2* versus NV concentration
+
+### Ensemble T2* versus N concentration
 
 T2* ensemble data reported for NV centers and other electronic spins including phosphor donors in silicon and PL defects in silicon carbide. References are saved in the IPython notebook.
 
