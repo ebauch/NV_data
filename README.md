@@ -1,18 +1,25 @@
 ### NV_data
 
-collection of [Nitrogen Vacancy](https://en.wikipedia.org/wiki/Nitrogen-vacancy_center) related data
-for citation please use: Erik Bauch
+collection of [Nitrogen Vacancy](https://en.wikipedia.org/wiki/Nitrogen-vacancy_center) related data  
+for citation use: Erik Bauch, github.com/ebauch/NV_data, [filename], [current data]
 
-##Ensemble T2* Survey
+- data is saved in **T2star_survey.csv** and **T2star_survey.xlsx** (for additional details about each defect 
+and where to find the numbers in the reference see the excel spreadsheet)
+- plots are generated with IPython **T2star_survey.ipynb**
+- all figures are collected in **T2star_survey.svg** and individually exported to *.png
 
-### Ensemble T2* versus NV concentration
 
-### Ensemble T2* versus N concentration
+** Comparing all spin species** 
 
-T2* ensemble data reported for NV centers and other electronic spins including phosphor donors in silicon and PL defects in silicon carbide. References are saved in the IPython notebook.
+![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1.png)
+![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig2.png)
 
-data: **T2star_survey.csv**  
-notebook: **T2star_survey.ipynb**  
-figure(s): **T2star_survey.svg**, **T2star_survey.png**  
+** NV Ensemble T2* Survey**
 
-![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey.png)
+these plots are similar to the one above, but only showing NV center related data:  
+![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig3.png)
+
+not that the x-axis plots nitrogen density now:  
+![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig4.png)
+
+
