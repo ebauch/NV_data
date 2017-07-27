@@ -9,12 +9,12 @@ and where to find the numbers in the reference see the excel spreadsheet)
 - all figures are collected in **T2star_survey.svg** and individually exported to *.png
 
 
-**Comparing all spin species** 
+**Ensemble T2&ast; Survey - All Spin Species** 
 
 ![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1.png)
 ![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig2.png)
 
-**NV Ensemble T2* Survey**
+**Ensemble T2&ast; Survey - NV Centers Only**
 
 these plots are similar to the one above, but only showing NV center related data:  
 ![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig3.png)
