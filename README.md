@@ -14,10 +14,9 @@ and where to find the numbers in the reference see the excel spreadsheet)
 
 <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig3.png" width=400px> <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig3_fom.png" width=400px>
 
-
 the plot below is showing T2* and FOM in terms of interrogated spins (detection volume * spin density)
 
-![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig2.png)
+[new plots here]
 
 **Ensemble T2&ast; Survey - NV Centers Only**
 
