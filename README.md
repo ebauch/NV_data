@@ -12,9 +12,10 @@ and where to find the numbers in the reference see the excel spreadsheet)
 
 **Ensemble T2&ast; Survey - All Spin Species** 
 
-![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1.png)
+![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1.png) ![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1_FOM.png)
 
 the plot below is showing T2* and FOM in terms of interrogated spins (detection volume * spin density)
+
 ![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig2.png)
 
 **Ensemble T2&ast; Survey - NV Centers Only**
