@@ -1,4 +1,4 @@
-### NV_data
+### 1 NV_data
 
 collection of [Nitrogen Vacancy](https://en.wikipedia.org/wiki/Nitrogen-vacancy_center) related data  
 for citation use: Erik Bauch, github.com/ebauch/NV_data, [filename], [current data]  
@@ -10,7 +10,7 @@ and where to find the numbers in the reference see the excel spreadsheet)
 - all references are saved in the Ipython notebook
 - all figures are collected in **T2star_survey.svg** and individually exported to *.png
 
-**Ensemble T2&ast; Survey - All Spin Species** 
+### 1.1 Ensemble T2&ast; Survey - All Spin Species
 
 <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig3.png" width=400px> <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig3_fom.png" width=400px>
 
@@ -18,7 +18,7 @@ the plot below is showing T2* and FOM in terms of interrogated spins (detection 
 
 [new plots here]
 
-**Ensemble T2&ast; Survey - NV Centers Only**
+### 1.2 Ensemble T2&ast; Survey - NV Centers Only
 
 these plots are similar to the one above, but only showing NV center related data:  
 <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1.png" width=400px> <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1_fom.png" width=400px>
