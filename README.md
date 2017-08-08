@@ -12,7 +12,7 @@ and where to find the numbers in the reference see the excel spreadsheet)
 
 **Ensemble T2&ast; Survey - All Spin Species** 
 
-<img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1.png" width=350px> <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1_fom.png" width=350px>
+<img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig3.png" width=400px> <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig3_fom.png" width=400px>
 
 the plot below is showing T2* and FOM in terms of interrogated spins (detection volume * spin density)
 
@@ -21,9 +21,9 @@ the plot below is showing T2* and FOM in terms of interrogated spins (detection 
 **Ensemble T2&ast; Survey - NV Centers Only**
 
 these plots are similar to the one above, but only showing NV center related data:  
-![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig3.png)
+<img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1.png" width=400px> <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1_fom.png" width=400px>
 
 not that the x-axis plots nitrogen density now:  
-![T2* survey electronic solid-state spins](https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig4.png)
+<img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig2.png" width=400px> <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig2_fom.png" width=400px>
 
 
