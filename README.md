@@ -12,7 +12,11 @@ and where to find the numbers in the reference see the excel spreadsheet)
 
 **Ensemble T2&ast; Survey - All Spin Species** 
 
+<<<<<<< HEAD
 <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig3.png" width=400px> <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig3_fom.png" width=400px>
+=======
+<img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1.png" width=350px> <img src="https://github.com/ebauch/NV_data/blob/master/T2star_survey_fig1_fom.png" width=350px>
+>>>>>>> c337937aa4b5e96779294a6877c06117c445cc28
 
 the plot below is showing T2* and FOM in terms of interrogated spins (detection volume * spin density)
 
